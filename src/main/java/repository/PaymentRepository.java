@@ -1,6 +1,6 @@
 /* PaymentRepository.java
    This is the repository interface for Payment.
-   Author: Mogamad Jawaad Allie - 230671942
+   Author: Mogamad Jawaad Allie - 230472125
    Date: 25 March 2026
 */
 package repository;
