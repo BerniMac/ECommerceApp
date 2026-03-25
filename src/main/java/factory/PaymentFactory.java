@@ -1,6 +1,6 @@
 /* PaymentFactory.java
    This is the factory class to create Payment objects.
-   Author: Mogamad Jawaad Allie - 230671942
+   Author: Mogamad Jawaad Allie - 230472125
    Date: 25 March 2026
 */
 package factory;
