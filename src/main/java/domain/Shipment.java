@@ -1,10 +1,10 @@
-
-package domain;
 /*
-Author:Tlangelani Chauke
-    student number : 222520663
-    date:22march 2026
-    
+ * Shipment.java
+ * Shipment model class
+ * Author: Tlangelani Chauke
+ * Date:22march 2026
+ */
+package domain;
 
 import java.util.Date;
 
