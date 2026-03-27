@@ -1,3 +1,8 @@
+/* 
+  Customer____.java
+  Author: 222709006 Qhama dyushu
+  Date: 22/03/2026
+    */
 package domain;
 
 import java.util.ArrayList;
